@@ -38,7 +38,7 @@ body{
     margin:auto;
 }
 .text{
-    text-align: justify;
+    overflow-wrap: break-word;
     background-color:#95c22b;
     width:90%;
     margin:20px;
