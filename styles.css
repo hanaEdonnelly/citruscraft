@@ -38,6 +38,7 @@ body{
     margin:auto;
 }
 .text{
+    text-align: justify;
     background-color:#95c22b;
     width:90%;
     margin:20px;
