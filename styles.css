@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+h1 {
+    font-family: "Press Start 2P";
+    font-size:150%;
+    color:#95c22b;
+    text-align: center;
+}
+h2 {
+    font-family: "Press Start 2P";
+    font-size: 140%;
+    color:#7B4425;
+    text-align: center;
+}
+body{
+    background-image: url(dirt.jpg);
+}
+.container {
+    align-items: center;
+    justify-content: center;
+    display:flex;
+    flex-wrap:wrap;
+}
+.container img {
+    width:200px;
+    border:5px solid #507b00;
+    margin-top: 20px;
+    margin-right:20px;
+    border-radius:5px;
+    display:block;
+    margin:auto;
+}
+.text{
+    background-color:#95c22b;
+    width:90%;
+    margin:20px;
+    border-radius: 5px;
+    box-shadow: 6px 6px #61371F;
+    padding:15px;
+}
+.blog-masthead{
+    flex:1 1 200px;
+}
+.blog-nav-item{
+    position:relative;
+    display:inline-block;
+    padding:10px;
+    font-family:"Press Start 2P";
+    color:#95c22b;
+}
