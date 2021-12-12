@@ -19,6 +19,9 @@ h2 {
     color:#7B4425;
     text-align: center;
 }
+h2:visited {
+    color:#63371e;
+}
 body{
     background-image: url(dirt.jpg);
 }
@@ -43,7 +46,7 @@ body{
     width:90%;
     margin:20px;
     border-radius: 5px;
-    box-shadow: 6px 6px #61371F;
+    box-shadow: 6px 6px #63371e;
     padding:15px;
 }
 .content iframe {
